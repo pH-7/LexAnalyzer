@@ -6,7 +6,7 @@ A simple lexical analyzer in Java.
 ## Run
 
     javac *.java
-    java LexAna
+    java Main
 
 
 ## Author 
